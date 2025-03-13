@@ -1,0 +1,8 @@
+.environment/
+.env
+src/wandb
+wandb
+.DS_Store
+data/*
+*.pth
+*.pyc
