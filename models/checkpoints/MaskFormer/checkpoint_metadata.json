@@ -1,0 +1,130 @@
+{
+    "checkpoints": [
+        {
+            "epoch": 1,
+            "scores": {
+                "mean_iou": 0.12513358410493827,
+                "mean_accuracy": 0.5,
+                "overall_accuracy": 0.2570134617160859,
+                "per_category_iou": [
+                    0.0,
+                    0.25026717
+                ],
+                "per_category_accuracy": [
+                    0.0,
+                    1.0
+                ],
+                "weighted_iou": 0.17518701774691356
+            },
+            "checkpoint_path": "../models/checkpoints/MaskFormer/checkpoint_epoch_1.pth"
+        },
+        {
+            "epoch": 2,
+            "scores": {
+                "mean_iou": 0.801528847523015,
+                "mean_accuracy": 0.9431402285740935,
+                "overall_accuracy": 0.9220930079951148,
+                "per_category_iou": [
+                    0.89560593,
+                    0.70745176
+                ],
+                "per_category_accuracy": [
+                    0.89983079,
+                    0.98644967
+                ],
+                "weighted_iou": 0.7638980136964063
+            },
+            "checkpoint_path": "../models/checkpoints/MaskFormer/checkpoint_epoch_2.pth"
+        },
+        {
+            "epoch": 3,
+            "scores": {
+                "mean_iou": 0.8527314374040873,
+                "mean_accuracy": 0.9312387933935964,
+                "overall_accuracy": 0.9561235665834064,
+                "per_category_iou": [
+                    0.94271425,
+                    0.76274862
+                ],
+                "per_category_accuracy": [
+                    0.98244487,
+                    0.88003272
+                ],
+                "weighted_iou": 0.816738311128133
+            },
+            "checkpoint_path": "../models/checkpoints/MaskFormer/checkpoint_epoch_3.pth"
+        },
+        {
+            "epoch": 4,
+            "scores": {
+                "mean_iou": 0.8616927095922566,
+                "mean_accuracy": 0.9563149194523837,
+                "overall_accuracy": 0.9575870388359973,
+                "per_category_iou": [
+                    0.9436604,
+                    0.77972502
+                ],
+                "per_category_accuracy": [
+                    0.95893259,
+                    0.95369724
+                ],
+                "weighted_iou": 0.8289056347826296
+            },
+            "checkpoint_path": "../models/checkpoints/MaskFormer/checkpoint_epoch_4.pth"
+        },
+        {
+            "epoch": 5,
+            "scores": {
+                "mean_iou": 0.863832166254151,
+                "mean_accuracy": 0.945916580018485,
+                "overall_accuracy": 0.960267347408255,
+                "per_category_iou": [
+                    0.94774235,
+                    0.77992199
+                ],
+                "per_category_accuracy": [
+                    0.97544654,
+                    0.91638662
+                ],
+                "weighted_iou": 0.8302680938530864
+            },
+            "checkpoint_path": "../models/checkpoints/MaskFormer/checkpoint_epoch_5.pth"
+        },
+        {
+            "epoch": 6,
+            "scores": {
+                "mean_iou": 0.8300937551120814,
+                "mean_accuracy": 0.9350039602124549,
+                "overall_accuracy": 0.9430323891441161,
+                "per_category_iou": [
+                    0.9254752425413891,
+                    0.7347122676827736
+                ],
+                "per_category_accuracy": [
+                    0.9510159827046153,
+                    0.9189919377202944
+                ],
+                "weighted_iou": 0.7919411601403583
+            },
+            "checkpoint_path": "../models/checkpoints/MaskFormer/checkpoint_epoch_6.pth"
+        },
+        {
+            "epoch": 6,
+            "scores": {
+                "mean_iou": 0.8163820517163338,
+                "mean_accuracy": 0.9246638011412933,
+                "overall_accuracy": 0.938117850448612,
+                "per_category_iou": [
+                    0.9186989101354026,
+                    0.7140651932972649
+                ],
+                "per_category_accuracy": [
+                    0.9524283468998798,
+                    0.896899255382707
+                ],
+                "weighted_iou": 0.7754553083487061
+            },
+            "checkpoint_path": "../models/checkpoints/MaskFormer/checkpoint_epoch_6.pth"
+        }
+    ]
+}
